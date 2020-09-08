@@ -1,0 +1,29 @@
+{
+  "name": "neeva",
+  "version": "1.0.0",
+  "description": "neeva project submission for job opportunity",
+  "main": "jquery-3.5.1.min.js",
+  "scripts": {
+    "serve": "browser-sync start ./ -s --files './' --directory --watch --port 2000",
+    "test": "echo \"Error: no tenpm st specified\" && exit 1"
+  },
+  "author": "Sanya Singh",
+  "license": "ISC",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "browser-sync": "^2.26.12",
+    "express": "^4.17.1",
+    "highlightjs": "^9.16.2",
+    "load-json-file": "^6.2.0",
+    "mongoose": "^5.10.2",
+    "node": "^14.8.0",
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4",
+    "require": "^2.4.20"
+  },
+  "keywords": [
+    "neeva",
+    "coding",
+    "project"
+  ]
+}
