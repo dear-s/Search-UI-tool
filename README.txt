@@ -1,5 +1,7 @@
 Technologies and Languages used: HTML, CSS, Javascript, jQuery, JSON, npm, node, font-awesome, DOM
 
+![Output sample](https://github.com/dear-s/Search-UI-tool/blob/master/screen_recording.gif)
+
 How to run:
 2 methods!!
 1. Running "html_neeva.html" will work just fine and for analytics - consider using the console alongside the webpage. After entering the search term in the searchbox, press enter and search will start. Try experimenting with clicking on top heading (h1 element) or search results. Explore or hover on search items!
